@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">projetos simples para estudos feito na faculdade<br>Python: https://github.com/Tteuw2k24/projetos<br>HTML/JS: https://github.com/Tteuw2k24/Html-JS<br><br>Site feito somente em html(colaboração com com o criado da postagem)<br>https://thewata.github.io/MWHP/Main</p>
+<p align="left">projetos simples para estudos feito na faculdade<br>Python: https://github.com/Tteuw2k24/projetos<br>HTML/JS: https://github.com/Tteuw2k24/Html-JS<br><br>Site feito somente em html<br>https://thewata.github.io/MWHP/Main</p>
 
 ###
 
@@ -37,5 +37,20 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/srtt2k25/srtt2k25/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/srtt2k25/srtt2k25/output/pacman-contribution-graph.svg">
 </picture>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/matheus-fernandes-dos-santos-0a174a275/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/mthfernandesz/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
+<p align="left">Contatos<br>E-mail: tteuw2004@gmail.com</p>
 
 ###
