@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">projetos simples para estudos feito na faculdade<br>Python: https://github.com/Tteuw2k24/projetos<br>HTML/JS: https://github.com/Tteuw2k24/Html-JS<br><br>Site feito somente em html<br>https://thewata.github.io/MWHP/Main</p>
+<p align="left">projetos simples para estudos feito na faculdade<br>Python: https://github.com/Tteuw2k24/projetos<br>HTML/JS: https://github.com/Tteuw2k24/Html-JS<br><br>Site feito somente em html(colaboração com com o criado da postagem)<br>https://thewata.github.io/MWHP/Main</p>
 
 ###
 
